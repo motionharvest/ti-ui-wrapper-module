@@ -1,0 +1,1 @@
+/Users/Cmndo/Projects/Ti UI CommonJS Module Wrapper/Resources/lib/require_patch.js
